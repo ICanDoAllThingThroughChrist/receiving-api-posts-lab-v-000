@@ -20,7 +20,7 @@ RSpec.describe "Products", type: :feature do
   #     # expect(page).to have_content "2"
   #     expect(page).to have_content "This is a very nice product!"
   #   end
-  end
+  # end
 
   describe "products show" do
     it 'requires javascript to go next' do
